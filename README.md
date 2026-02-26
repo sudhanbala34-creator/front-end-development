@@ -8,4 +8,6 @@ demo link for photo gallery: https://github.com/sudhanbala34-creator/front-end-d
 
 demo link for flexboxes: https://github.com/sudhanbala34-creator/front-end-development/blob/main/Flexboxes.html
 
-demo link for college notice board: https://github.com/sudhanbala34-creator/front-end-development/blob/main/college.html
+demo link for college notice board: https://github.com/sudhanbala34-creator/front-end-development/blob/main/college.html\
+
+demo link for navigation bar: 1)https://github.com/sudhanbala34-creator/front-end-development/blob/main/home.html
