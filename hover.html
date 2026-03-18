@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Hover Effect</title>
+  <style>
+    .box {
+      width: 200px;
+      height: 120px;
+      background: #3478f6;
+      color: white;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 8px;
+      transition: transform 0.2s, background 0.2s;
+    }
+
+    .box:hover {
+      background: #245cb5;
+      transform: scale(1.05);
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <div class="box">Hover me</div>
+</body>
+</html>
